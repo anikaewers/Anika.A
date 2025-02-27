@@ -1,6 +1,7 @@
 # Anika.A
 # Hello, I'm Anika Anderson 
-<a href=https://www.linkedin.com/in/anika-anderson-062888353/
+<a href="https://www.linkedin.com/in/anika-anderson-062888353/" target="_blank">Visit my LinkedIn Profile</a>
+
 
 
 [Brief Introduction - Remove this afterwards]
