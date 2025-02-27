@@ -4,7 +4,7 @@
 
 
 
-[Brief Introduction - Remove this afterwards]
+Aspiring Cybersecurity Specialist with foundational knowledge in network security and data protection, complemented by strong problem-solving and analytical skills honed through years of customer service and operational roles. Drawing on my experience in high-paced environments, including Home Depot, Alorica, and Solar King, I am eager to transition into cybersecurity by leveraging my attention to detail, team collaboration, and ability to manage and resolve complex issues efficiently. Dedicated to continuous learning and committed to ensuring organizational security by applying my growing expertise in cybersecurity principles and practices.
 
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
